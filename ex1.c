@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"td1.h"
+#include"ex1.h"
 void main(){
 	int x;
 	printf("donne une nombre:");
