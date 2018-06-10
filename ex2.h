@@ -35,7 +35,7 @@ void fonction_principale(int coeff[], int poly[]){
 	for(i=0;i<=n;i++){
 		poly[i] = coeff[i]*puissance(x, i);
 	}
-	printf("remplissage complie\n");
+	printf("remplissage complet\n");
 	//evaluation de x;
 	printf("\n******execution ******\n");
 	somme_tableau(n, poly);
